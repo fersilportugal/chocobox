@@ -12,3 +12,4 @@ choco upgrade pdfill
 choco install firefox
 choco install dotnet3.5
 choco install mremoteng
+choco install ransomfree
