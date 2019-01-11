@@ -1,3 +1,4 @@
+choco install adobereader
 choco install jr8
 choco install javaruntime
 choco install 7zip
@@ -8,3 +9,4 @@ choco install skype
 choco install ghostscript.app
 choco install chocolateygui 
 choco upgrade pdfill 
+choco install firefox
