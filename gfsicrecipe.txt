@@ -1,3 +1,4 @@
+choco install dotnet3.5
 choco install jr8
 choco install javaruntime
 choco install 7zip
