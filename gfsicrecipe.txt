@@ -18,3 +18,4 @@ choco install ransomfree
 choco install skype 
 choco install vlc
 choco install winscp
+choco install xencenter
