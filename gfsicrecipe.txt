@@ -12,10 +12,8 @@ choco install jr8
 choco install licecap
 choco install mremoteng
 choco install notepadplusplus 
-choco install paint.net
 choco install pdfill
 choco install putty
-choco install ransomfree
 choco install skype 
 choco install vlc
 choco install winscp
