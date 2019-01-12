@@ -3,6 +3,7 @@ choco install adobereader
 choco install atom
 choco install chocolateygui 
 choco install dotnet3.5
+choco install dotnet4.7.1 
 choco install firefox
 choco install ghostscript.app
 choco install googlechrome
