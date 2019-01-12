@@ -9,6 +9,5 @@ choco install javaruntime
 choco install jr8
 choco install notepadplusplus 
 choco install pdfill 
-choco install ransomfree
 choco install skype 
 choco install vlc
