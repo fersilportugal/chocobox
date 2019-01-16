@@ -10,6 +10,7 @@ choco install javaruntime
 choco install jr8
 choco install licecap
 choco install msaccess2010-redist-x64
+choco install msaccess2010-redist-x86
 choco install notepadplusplus 
 choco install pdfill 
 choco install skype 
