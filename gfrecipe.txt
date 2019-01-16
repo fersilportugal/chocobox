@@ -2,11 +2,14 @@ choco install 7zip
 choco install adobereader
 choco install chocolateygui 
 choco install dotnet3.5
+choco install dotnet4.7.1 
 choco install firefox
 choco install ghostscript.app
 choco install googlechrome
 choco install javaruntime
 choco install jr8
+choco install licecap
+choco install msaccess2010-redist-x64
 choco install notepadplusplus 
 choco install pdfill 
 choco install skype 
