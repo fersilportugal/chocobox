@@ -15,6 +15,7 @@ choco install mremoteng
 choco install notepadplusplus 
 choco install pdfill
 choco install putty
+choco install robotofonts
 choco install skype 
 choco install vlc
 choco install winscp
