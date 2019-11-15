@@ -1,16 +1,18 @@
-choco install 7zip
-choco install adobereader
-choco install chocolateygui 
-choco install dotnet3.5
-choco install dotnet4.7.1 
-choco install firefox
-choco install ghostscript.app
-choco install googlechrome
-choco install javaruntime
-choco install jr8
-choco install licecap
-choco install notepadplusplus 
-choco install pdfill
-choco install robotofonts
-choco install skype 
-choco install vlc
+choco install 7zip -y
+choco install dotnet3.5 -y
+choco install dotnet4.7.1 -y
+choco install chocolatey-core.extension -y 
+choco install chocolateygui -y
+choco install firefox -y
+choco install ghostscript.app -y
+choco install googlechrome -y
+choco install javaruntime -y
+choco install jr8 -y
+choco install licecap -y
+choco install notepadplusplus -y
+choco install robotofonts -y
+choco install skype -y
+choco install vlc -y
+choco install pdfsam.install -y 
+choco install adobereader -y
+choco install adobereader-update -y
