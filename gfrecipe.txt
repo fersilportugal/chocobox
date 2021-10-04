@@ -15,4 +15,4 @@ choco install tightvnc -y
 choco install vlc -y
 choco install pdfsam.install -y
 choco install microsoft-teams -y
-choco install adobereader -y
+choco install adobereader -a
