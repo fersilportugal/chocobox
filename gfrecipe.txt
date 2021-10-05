@@ -14,5 +14,5 @@ choco install robotofonts -y
 choco install tightvnc -y
 choco install vlc -y
 choco install pdfsam.install -y
-choco install microsoft-teams -y
+choco install microsoft-teams.install -y
 choco install adobereader-update -a
